@@ -1,0 +1,41 @@
+.atyourservice{
+    background-color:white;
+    text-align: center;
+    display: block;
+    
+}
+
+.sturdthemes{
+    background-color:white ;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+   
+}
+.UptoDate{
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    
+}
+.ReadytoPublish{
+    background-color:white;
+    text-align: center;
+    display: inline-block;
+   width: 300px;
+}
+.MadewithLove{
+    background-color:white;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+   
+}
+p{
+    color: brown;
+    text-align: center;
+    display: block;
+   
+}
+    
